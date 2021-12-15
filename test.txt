@@ -1,1 +1,5 @@
-Tach auch du Zugführer keine ahnung was das soll 
+<<<<<<< HEAD
+Tach auch du Zugführer keine ahnung was das soll, was auch immer
+=======
+Tach auch du Zugführer was auch immer
+>>>>>>> main
